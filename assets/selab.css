@@ -55,10 +55,14 @@ footer{
 
 @media screen and (max-width: 450px){
     .ui.container:not(.fluid) {
-        width: 37% !important;
+        width: 100% !important;
     }
 
     .ui.secondary.menu{
         overflow-x:scroll;
+    }
+
+    footer{
+        width:89%;
     }
 }
