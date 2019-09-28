@@ -1,7 +1,6 @@
 /**** Syntax Highlighting ****/
 body:not(.full-width) {
   background-color: #080705;
-  background-image: url("/img/grad1.png");
   background-size: contain;
   background-attachment: fixed;
   color: bisque;
