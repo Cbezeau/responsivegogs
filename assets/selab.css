@@ -38,3 +38,11 @@
 .ui.table{
     background-color:#061D32 !important;
 }
+
+.ui.basic.label{
+    background: #2ABBBB !important;
+}
+
+.ui.header{
+    color:#2ABBBB !important;
+}
