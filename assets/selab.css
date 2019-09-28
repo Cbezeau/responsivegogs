@@ -46,3 +46,9 @@
 .ui.header{
     color:#2ABBBB !important;
 }
+
+footer{
+    position:fixed;
+    left:0;
+    bottom:0;
+}
