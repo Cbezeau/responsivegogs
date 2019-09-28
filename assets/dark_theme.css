@@ -765,7 +765,6 @@ tr:hover a {
 
 .ui.table {
   background-color: #0a294878;
-  background-image: url("/img/grad1.png");
   background-size: contain;
   background-attachment: fixed;
   background-blend-mode: color-burn;
