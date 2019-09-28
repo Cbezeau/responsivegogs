@@ -61,4 +61,7 @@ footer{
     .ui.secondary.menu{
         overflow-x:scroll;
     }
+    footer{
+        overflow-x:scroll;
+    }
 }
