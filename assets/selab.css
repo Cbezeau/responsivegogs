@@ -52,3 +52,9 @@ footer{
     left:0;
     bottom:0;
 }
+
+@media screen and (max-width: 640px){
+    .ui.container:not(.fluid) {
+        width: 37% !important;
+    }
+}
