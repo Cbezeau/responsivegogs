@@ -10,3 +10,27 @@
 .pages div{
     padding-bottom: .5em;
 }
+
+.tabular .item{
+    color: #2ABBBB !important;
+}
+
+.ui.basic.blue.button, .ui.basic.blue.buttons .button{
+    color:#78B7ED !important;
+}
+
+#repo-clone-url{
+    color: #2ABBBB !important;
+}
+
+.ui .text.grey{
+    color:#A6A6A6 !important;
+}
+
+.ui.attached.header{
+    color: #2ABBBB !important;
+}
+
+.ui .text.black{
+    color:#A6A6A6 !important;
+}
