@@ -57,4 +57,8 @@ footer{
     .ui.container:not(.fluid) {
         width: 37% !important;
     }
+
+    .ui.secondary.menu{
+        overflow-x:scroll;
+    }
 }
